@@ -57,7 +57,7 @@ takowasabi
 
     ![](images/questofgakuin.png)
 
-    C++とDxLibで制作した、初めてのゲーム制作作品。疑似3Dのダンジョンを探索してゴールを目指す。[GitHub](https://github.com/takotakowasabi/QuestOfGakuin)
+    C++とDxLibで制作した、初めてのゲーム制作作品。疑似3Dのダンジョンを探索してゴールを目指します。[GitHub](https://github.com/takotakowasabi/QuestOfGakuin)
 
 ### チームで作ったもの
 
@@ -65,7 +65,7 @@ takowasabi
 
     ![](images/ChronoDrive.png)
 
-    現在10人程度のチームで制作している、VRロボットアクションゲーム。リードエンジニアとして、タスク分割やテストの導入、設計などを行っている。
+    現在10人程度のチームで制作している、VRロボットアクションゲームです。リードエンジニアとして、タスク分割やテストの導入、設計などを行っています。
 
 - MIS CART
 
