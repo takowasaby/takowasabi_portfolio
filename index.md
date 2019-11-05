@@ -11,7 +11,7 @@ takowasabi
 |趣味|RPG全般、デジタルカードゲーム、ゲーム開発、他学科の講義に潜る、技術書|
 |興味のあるもの|ゲームエンジン、リアルタイムレンダリング、プログラミング言語、コンパイラ、オペレーティングシステム、並列処理、マネージメント etc...|
 |資格とか|応用情報処理技術者、日商簿記3級、ファイナンシャルプランニング技能士検定3級、2017物理学会jrセッション 審査員特別賞|
-|職歴（インターンシップとか）|[Cygames](https://www.cygames.co.jp/)、[Fixstars](https://www.fixstars.com/ja/)|
+|職歴（インターンシップとか）|[SQUARE ENIX](https://www.jp.square-enix.com)、[Cygames](https://www.cygames.co.jp/)、[XFLAG](https://xflag.com)、[グリー](http://corp.gree.net/jp/ja/)、[applibot](https://www.applibot.co.jp)、[Fixstars](https://www.fixstars.com/ja/)|
 
 ## 会得スキル
 
@@ -26,6 +26,8 @@ takowasabi
 |CUDA/TensorRT/Nsight/NVVP|アルバイト業務とか、GPU動かすときとか|
 |Unity/Siv3D/DxLib/Processing|ゲーム開発とか、簡単なシュミレーションとか、アルゴリズム可視化とか|
 |Go/Rust/Haskell|チュートリアルレベルの知識|
+|DDD/アジャイル|本読んで実践中です|
+|NUnit/GoogleTest&GoogleMock|チーム開発や業務にて使用|
 
 ## コレクション
 
@@ -66,6 +68,14 @@ takowasabi
     ![](images/ChronoDrive.png)
 
     現在10人程度のチームで制作している、VRロボットアクションゲームです。リードエンジニアとして、タスク分割やテストの導入、設計などを行っています。
+
+- 4コマくえすと
+
+    ![](images/4coma2.jpg)
+    
+    ![](images/4coma3.jpg)
+
+    5日間のハッカソンで、Unityを用いてスマートフォン向けに開発したRPG風のパーティゲームです。NGワードを避けながら、4コマの漫画を4人でそろえて先頭を有利に進めていきます。[GitHub](https://github.com/takowasaby/Concept)
 
 - MIS CART
 
@@ -112,6 +122,10 @@ takowasabi
 - GPUでプログラミング（MIS.W公式ブログ）
 
     CUDAを用いてGPUで当たり判定を行うプログラムを作成し、その工程をブログにて紹介しました。[GPUでプログラミング - MIS.W公式ブログ](https://blog.misw.jp/entry/2019/04/11/000000)
+
+- TensorRTでPSPNetのエンコーダを量子化する
+
+    NVIDIAの提供するTensorRTを用いて、高精度のセマンティックセグメンテーションアルゴリズムであるPSPNetを高速化及び軽量化しました。[TensorRTでPSPNetのエンコーダを量子化する](https://proc-cpuinfo.fixstars.com/2019/09/tensorrt-pspnet/)
 
 - SSDにMobileNetを組み込んで軽量化する（Fixstars Tech Blog）
 
